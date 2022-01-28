@@ -1,0 +1,6 @@
+.img{
+    
+    --pane-bg-layer-2: linear-gradient(to left, #ccf225 85%, transparent 85%);
+    background: var(--pane-bg-layer-1),var(--pane-bg-layer-2);
+    width: 30%;
+}
