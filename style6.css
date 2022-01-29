@@ -1,6 +1,37 @@
 .img{
-    
-    --pane-bg-layer-2: linear-gradient(to left, #ccf225 85%, transparent 85%);
-    background: var(--pane-bg-layer-1),var(--pane-bg-layer-2);
-    width: 30%;
+    background-image: url('C:\Users\Selva\Desktop\class projects\forms\style6.css');
+    background-repeat: no-repeat;
+    background-position: left top;
 }
+.input{
+    min-height: 46px;
+    font-size: 1.7rem;
+    line-height: 20px;
+    padding: 0 15px;
+    width: 55%;
+    margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+margin-left: 10%;
+}
+.label{
+    margin-left: 10%;
+    font: size 25px;
+    
+}
+h1{
+    margin-left: 10%;
+}
+span{
+    margin-left: 10%;
+    margin-bottom: 20px;
+}
+.b{
+    margin-left: 10%;
+    width: 25px;
+    height: 25px;
+  }
+
+ p{
+     margin-left:10%
+ }
